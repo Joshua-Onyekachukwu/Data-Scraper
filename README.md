@@ -1,6 +1,4 @@
 # Data-Scraper
-
-# Data-Scraper
 Hacker News Scraper Documentation
 
 
